@@ -3,102 +3,102 @@
   "app": "com.zofloridane.zofloridane",
   "variants": {
     "universal": {
-      "version": "3.0.3",
-      "versionCode": 69,
+      "version": "3.0.4",
+      "versionCode": 70,
       "apk": {
-        "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.3-69/universal-69.apk",
-        "sha256": "4b7864c75b28fe608316498735b344315ad1982f3318a7ea8755430acb23f1e2",
-        "size": 75012291
+        "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.4-70/universal-70.apk",
+        "sha256": "e2d758d82f9a9a8638b0eb5305cd642237ca64f5ef32cb1df03f53495f925b3e",
+        "size": 75028675
       },
       "patches": [
         {
-          "fromVersionCode": 68,
-          "fromSha256": "5368872c442088ea13e282d6bf2818c4c03716ccbd444b49461b6c8d550948f0",
-          "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.3-69/universal-68-69.bsdiff",
-          "sha256": "54e961a343a32938f0259713c8ce0c1478e7f42b6c4ab964dbee41c7896ae010",
-          "size": 4059123
+          "fromVersionCode": 69,
+          "fromSha256": "4b7864c75b28fe608316498735b344315ad1982f3318a7ea8755430acb23f1e2",
+          "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.4-70/universal-69-70.bsdiff",
+          "sha256": "784b16cb7c3402334358f017d2e879afc49e2ef57e6493d3ae6b475546de6cd4",
+          "size": 811371
         },
         {
-          "fromVersionCode": 67,
-          "fromSha256": "13307a3cbe0d39f4f0aa4e3f9ef335de5cee0a4a1abbfa5616b039145d964dda",
-          "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.3-69/universal-67-69.bsdiff",
-          "sha256": "b49e9b42a0fab8ccf48249b21d01613521827ef365ecfadf0743921bda8828bb",
-          "size": 5872900
+          "fromVersionCode": 68,
+          "fromSha256": "5368872c442088ea13e282d6bf2818c4c03716ccbd444b49461b6c8d550948f0",
+          "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.4-70/universal-68-70.bsdiff",
+          "sha256": "5b7fd09e61bc36ac44ff04689a6f3923e412a21bac5e2bce4def601327502cad",
+          "size": 4070225
         }
       ]
     },
     "arm64-v8a": {
-      "version": "3.0.3",
-      "versionCode": 69,
+      "version": "3.0.4",
+      "versionCode": 70,
       "apk": {
-        "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.3-69/arm64-v8a-69.apk",
-        "sha256": "1d181a0eeacdf2ba3df852930d3845680bff07405ac2ae009ad51c3e7a1d92ae",
+        "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.4-70/arm64-v8a-70.apk",
+        "sha256": "0b2ff27077c8805a69322beccaefa8119379eaacb12531e4e974555fd6acd7ec",
         "size": 28422749
       },
       "patches": [
         {
-          "fromVersionCode": 68,
-          "fromSha256": "5368872c442088ea13e282d6bf2818c4c03716ccbd444b49461b6c8d550948f0",
-          "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.3-69/arm64-v8a-68-69-desde-universal.bsdiff",
-          "sha256": "c35add1a4942af6ec6caf8d8b58f83891d49aad49111215ea94929c594a3f6af",
-          "size": 1365425
+          "fromVersionCode": 69,
+          "fromSha256": "4b7864c75b28fe608316498735b344315ad1982f3318a7ea8755430acb23f1e2",
+          "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.4-70/arm64-v8a-69-70-desde-universal.bsdiff",
+          "sha256": "5c6221ebd039a9c946a759121de72b0e47584ec1d7c4f7f1be3db14790a794ec",
+          "size": 316292
         },
         {
-          "fromVersionCode": 67,
-          "fromSha256": "13307a3cbe0d39f4f0aa4e3f9ef335de5cee0a4a1abbfa5616b039145d964dda",
-          "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.3-69/arm64-v8a-67-69-desde-universal.bsdiff",
-          "sha256": "5d207e0c286aabe92b08bb23d515ecec20b73ade6c7e88fe0c1ee8bea67e0b54",
-          "size": 2838004
+          "fromVersionCode": 68,
+          "fromSha256": "5368872c442088ea13e282d6bf2818c4c03716ccbd444b49461b6c8d550948f0",
+          "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.4-70/arm64-v8a-68-70-desde-universal.bsdiff",
+          "sha256": "7ef65cc84cb2b6fe6aa4375d7d1db9bfd7f8b5f569d3bf71299b6b187a42ee5c",
+          "size": 1373458
         }
       ]
     },
     "armeabi-v7a": {
-      "version": "3.0.3",
-      "versionCode": 69,
+      "version": "3.0.4",
+      "versionCode": 70,
       "apk": {
-        "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.3-69/armeabi-v7a-69.apk",
-        "sha256": "37d286f4d32f13b0a78afa09b8f28fd4ed5d05b0a723febbf38acf58c45d77ae",
-        "size": 26650665
+        "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.4-70/armeabi-v7a-70.apk",
+        "sha256": "ad1a07d9e90ba58be44944c2041d9a373ee6fbd9f5d56572762618c240520165",
+        "size": 26667049
       },
       "patches": [
         {
-          "fromVersionCode": 68,
-          "fromSha256": "5368872c442088ea13e282d6bf2818c4c03716ccbd444b49461b6c8d550948f0",
-          "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.3-69/armeabi-v7a-68-69-desde-universal.bsdiff",
-          "sha256": "6cbe618ec279795996639cd1eedb270468c67125089a6aed2f6ab135e1571892",
-          "size": 1320255
+          "fromVersionCode": 69,
+          "fromSha256": "4b7864c75b28fe608316498735b344315ad1982f3318a7ea8755430acb23f1e2",
+          "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.4-70/armeabi-v7a-69-70-desde-universal.bsdiff",
+          "sha256": "8017e809361b0abcee9fdb524cae0dbe566018ba794ab7532cfe7e41134b6421",
+          "size": 284748
         },
         {
-          "fromVersionCode": 67,
-          "fromSha256": "13307a3cbe0d39f4f0aa4e3f9ef335de5cee0a4a1abbfa5616b039145d964dda",
-          "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.3-69/armeabi-v7a-67-69-desde-universal.bsdiff",
-          "sha256": "87425ffefd9638315ef3bf5f0fa7cf3e86917a8592ed5c1a47e30965acc17b37",
-          "size": 2853944
+          "fromVersionCode": 68,
+          "fromSha256": "5368872c442088ea13e282d6bf2818c4c03716ccbd444b49461b6c8d550948f0",
+          "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.4-70/armeabi-v7a-68-70-desde-universal.bsdiff",
+          "sha256": "aa82c61d78d7fabf2fcd612a05f5a50fef4f91758cb1a3abb1596d3c0d00e985",
+          "size": 1321665
         }
       ]
     },
     "x86_64": {
-      "version": "3.0.3",
-      "versionCode": 69,
+      "version": "3.0.4",
+      "versionCode": 70,
       "apk": {
-        "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.3-69/x86_64-69.apk",
-        "sha256": "977b6360346eb8fe0862cd9ba3a123d0737525afde7f29574effcef5c5f33045",
+        "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.4-70/x86_64-70.apk",
+        "sha256": "1da2a520ed8806d553cffac170676e3c03fa4b28e89f3572de4e20d822ffdc45",
         "size": 29972057
       },
       "patches": [
         {
-          "fromVersionCode": 68,
-          "fromSha256": "5368872c442088ea13e282d6bf2818c4c03716ccbd444b49461b6c8d550948f0",
-          "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.3-69/x86_64-68-69-desde-universal.bsdiff",
-          "sha256": "c20736c66a0bc4e6dad4b7d3f19765f6ddbc022e6319686565dac7dfcc2d5024",
-          "size": 1363155
+          "fromVersionCode": 69,
+          "fromSha256": "4b7864c75b28fe608316498735b344315ad1982f3318a7ea8755430acb23f1e2",
+          "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.4-70/x86_64-69-70-desde-universal.bsdiff",
+          "sha256": "f873ac8a5435029fb66d2f13530e02eaee59fb305e4ce863103b0bbf8f4d5e54",
+          "size": 243049
         },
         {
-          "fromVersionCode": 67,
-          "fromSha256": "13307a3cbe0d39f4f0aa4e3f9ef335de5cee0a4a1abbfa5616b039145d964dda",
-          "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.3-69/x86_64-67-69-desde-universal.bsdiff",
-          "sha256": "884a1037a1ab1b2c09484b41a980a703ca392ef5fb57dc07ce6ec9ee8dbe62fe",
-          "size": 2803926
+          "fromVersionCode": 68,
+          "fromSha256": "5368872c442088ea13e282d6bf2818c4c03716ccbd444b49461b6c8d550948f0",
+          "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.4-70/x86_64-68-70-desde-universal.bsdiff",
+          "sha256": "b05c5c2dddd0d9353c1f6dce227243a937bd62d307e15f4a6b2f72f10829095f",
+          "size": 1382052
         }
       ]
     }
