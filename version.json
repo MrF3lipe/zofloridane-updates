@@ -3,27 +3,27 @@
   "app": "com.zofloridane.zofloridane",
   "variants": {
     "universal": {
-      "version": "3.0.7",
-      "versionCode": 73,
+      "version": "3.0.9",
+      "versionCode": 76,
       "apk": {
-        "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.7-73/universal-73.apk",
-        "sha256": "084a8905ae65eb56d3737cc72d5554e7513cffd0923be3732b11f7a34d2d3ef9",
-        "size": 75126879
+        "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.9-76/universal-76.apk",
+        "sha256": "faf0e4fee4c1d32bb85124c7e268eca0eacc03b375fb25464b6fc79fa19a8078",
+        "size": 76507419
       },
       "patches": [
         {
-          "fromVersionCode": 72,
-          "fromSha256": "0c31d9bf3167eb972e2b9861c0d9c2b55b9052082eb4b5ab487ce373ca0aad5e",
-          "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.7-73/universal-72-73.bsdiff",
-          "sha256": "e64b82b088ab4e17ca80a37ab75e5199724cb891b17f1d008c604031d5d7b68b",
-          "size": 4671065
+          "fromVersionCode": 73,
+          "fromSha256": "084a8905ae65eb56d3737cc72d5554e7513cffd0923be3732b11f7a34d2d3ef9",
+          "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.9-76/universal-73-76.bsdiff",
+          "sha256": "d943ca3236e351b183e074797345dd03adcd51ce310acd39474182737446e15b",
+          "size": 7712794
         },
         {
-          "fromVersionCode": 71,
-          "fromSha256": "a741795eeecf2aac8ba34cadcd5bc983d5b325cf88333ebc0a9ee3d924aeacba",
-          "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.7-73/universal-71-73.bsdiff",
-          "sha256": "fd878c1112f040416f821c8e775d4d0fc891ac8f0cc577e96f3d4a3bf5bbc5da",
-          "size": 4961734
+          "fromVersionCode": 72,
+          "fromSha256": "0c31d9bf3167eb972e2b9861c0d9c2b55b9052082eb4b5ab487ce373ca0aad5e",
+          "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.9-76/universal-72-76.bsdiff",
+          "sha256": "e4016663bbfa4ebefee40c787aab94de9896eeedbf15c1b5e0c0c4370511a473",
+          "size": 7645377
         }
       ]
     }
