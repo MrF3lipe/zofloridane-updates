@@ -3,27 +3,27 @@
   "app": "com.zofloridane.zofloridane",
   "variants": {
     "universal": {
-      "version": "3.0.9.1",
-      "versionCode": 78,
+      "version": "3.0.9.2",
+      "versionCode": 79,
       "apk": {
-        "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.9.1-78/universal-78.apk",
-        "sha256": "01b9d85e183e0329765171195b1971ca0ad78830a08d03779f75d9b761be4bf4",
-        "size": 77346743
+        "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.9.2-79/universal-79.apk",
+        "sha256": "833fe50a85b2d188e9680c5a145d56044476f47f17cfba7d5e1238e0491904b6",
+        "size": 77363127
       },
       "patches": [
         {
-          "fromVersionCode": 76,
-          "fromSha256": "faf0e4fee4c1d32bb85124c7e268eca0eacc03b375fb25464b6fc79fa19a8078",
-          "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.9.1-78/universal-76-78.bsdiff",
-          "sha256": "cb4d846081fbde7710370f176b049f29da6563520e418f94b9e3436da82d77e5",
-          "size": 7339348
+          "fromVersionCode": 78,
+          "fromSha256": "01b9d85e183e0329765171195b1971ca0ad78830a08d03779f75d9b761be4bf4",
+          "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.9.2-79/universal-78-79.bsdiff",
+          "sha256": "40802b41d59387061d4e11083750af5a11a00f0510de87ee1956869bca889dbd",
+          "size": 4114974
         },
         {
-          "fromVersionCode": 73,
-          "fromSha256": "084a8905ae65eb56d3737cc72d5554e7513cffd0923be3732b11f7a34d2d3ef9",
-          "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.9.1-78/universal-73-78.bsdiff",
-          "sha256": "8648920d720ff1ff5702d875f0061739e7df7bb77ba12b0a2c6ef4d63a3c71c9",
-          "size": 8498093
+          "fromVersionCode": 76,
+          "fromSha256": "faf0e4fee4c1d32bb85124c7e268eca0eacc03b375fb25464b6fc79fa19a8078",
+          "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.9.2-79/universal-76-79.bsdiff",
+          "sha256": "e20c4cec922ec4d8385cd0e85da5a0ac052ff6185093b77bd0d31b738b01cdf1",
+          "size": 7348670
         }
       ]
     }
