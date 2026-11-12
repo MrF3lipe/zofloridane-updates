@@ -3,34 +3,41 @@
   "app": "com.zofloridane.zofloridane",
   "variants": {
     "universal": {
-      "version": "3.0.9.3",
-      "versionCode": 80,
+      "version": "3.0.10",
+      "versionCode": 81,
       "apk": {
-        "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.9.3-80/universal-80.apk",
-        "sha256": "0d0086ca2dce31bcc7055bdea6916fc6d4f66a4ffdd861d2b9eb12ab808453d6",
-        "size": 77352648
+        "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.10-81/universal-81.apk",
+        "sha256": "8639fa4ae2f4c6192d6f26417db620411b9a909435353a9d2b819e6986ad6e3d",
+        "size": 79804791
       },
       "patches": [
         {
+          "fromVersionCode": 80,
+          "fromSha256": "0d0086ca2dce31bcc7055bdea6916fc6d4f66a4ffdd861d2b9eb12ab808453d6",
+          "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.10-81/universal-80-81.bsdiff",
+          "sha256": "a26a29213a0d6471dad088b1fd9fe035dc24a08353551c29bba181ecbe3ddc7e",
+          "size": 7601672
+        },
+        {
           "fromVersionCode": 79,
           "fromSha256": "833fe50a85b2d188e9680c5a145d56044476f47f17cfba7d5e1238e0491904b6",
-          "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.9.3-80/universal-79-80.bsdiff",
-          "sha256": "67438f719f06a2e344b00f31d5d11b6791cee0cb834da4ed9b2844974097f342",
-          "size": 798958
+          "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.10-81/universal-79-81.bsdiff",
+          "sha256": "ac8e09731fbab673e1aca73e5c544b54e17a95eb39ed1c6b62e9c3851fc5443a",
+          "size": 7607875
         },
         {
           "fromVersionCode": 78,
           "fromSha256": "01b9d85e183e0329765171195b1971ca0ad78830a08d03779f75d9b761be4bf4",
-          "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.9.3-80/universal-78-80.bsdiff",
-          "sha256": "234caa9b79d0470f978eaf23236c4206928bc66df76edad45d0d67a7bb9dceb8",
-          "size": 4207275
+          "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.10-81/universal-78-81.bsdiff",
+          "sha256": "0b49bf86ac6a60c7a6549061b97b1d84095af20b10473516179ea895f4068760",
+          "size": 7657299
         },
         {
           "fromVersionCode": 76,
           "fromSha256": "faf0e4fee4c1d32bb85124c7e268eca0eacc03b375fb25464b6fc79fa19a8078",
-          "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.9.3-80/universal-76-80.bsdiff",
-          "sha256": "3086107cc042c92e12cdbd83e4c41197028b121de986282b3b38b5d78a6cf0bb",
-          "size": 7353759
+          "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.10-81/universal-76-81.bsdiff",
+          "sha256": "4ef89d4c5f2c4f73380610502deb808dd714ced7b9cf5f1d6f14b8dc82829d50",
+          "size": 9374888
         }
       ]
     }
