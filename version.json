@@ -3,12 +3,12 @@
   "app": "com.zofloridane.zofloridane",
   "variants": {
     "universal": {
-      "version": "3.0.10.7",
-      "versionCode": 88,
+      "version": "3.0.10.8",
+      "versionCode": 89,
       "apk": {
-        "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.10.7-88/universal-88.apk",
-        "sha256": "2dcb9453355a0afa6fc8d58debbdab9da1694c815882bafa37ec750f5a42a45b",
-        "size": 80364763
+        "url": "https://github.com/MrF3lipe/zofloridane-updates/releases/download/v3.0.10.8-89/universal-89.apk",
+        "sha256": "671ce91cb7012ee44d4d7d7fef6532abca905594b9079a3084334b0b9c90f3bf",
+        "size": 80430303
       },
       "patches": []
     }
